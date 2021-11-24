@@ -1,4 +1,16 @@
-
-html{
-    background-color: lavender;
+h1 {
+  color: #0066cc;
 }
+
+nav {
+  height: 3rem;
+  background: lavender;
+  margin-bottom: 2rem;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+/*# sourceMappingURL=main.css.map */
